@@ -1,13 +1,11 @@
 ### Hi there 👋, 
- I am a Senior Frontend developer at Itarium Technologies India Prv. Ltd.
- 
- I have around 6 year of work exerience developing application using Nodejs and Java technologies.
- 
- I have experties in Angular 2+, Typescript, ES6 and HTML 5.
- 
- 🔭 I’m currently working on Ionic.
- 
- 📫 How to reach me: tushar.khairnar@itariumtech.com
+I am a Senior Front-end developer at Itarium Technologies India Private Limited.
+
+I have around 6 years of work experience developing applications using Nodejs and Java technologies.
+
+I have expertise in Angular 2+, Typescript, ES6, and HTML 5.
+
+🔭 I’m currently working on Ionic.
  
 <!--
 **tusharkhairnar008/tusharkhairnar008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
