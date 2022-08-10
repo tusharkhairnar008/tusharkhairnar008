@@ -1,7 +1,7 @@
 ### Hi there 👋, 
  I am a Senior Frontend developer at Itarium Technologies India Prv. Ltd.
  I have around 6 year of work exerience developing application using Nodejs and Java technologies.
- I have experties in Angular 2+.
+ I have experties in Angular 2+ and Typescript, ES6 and HTML 5.
  
  🔭 I’m currently working on Ionic. 
  
