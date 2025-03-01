@@ -1,12 +1,8 @@
 ### Hi there 👋, 
-I am a Senior Front-end developer at Itarium Technologies India Private Limited.
+I am a Senior Front-End Developer at Itarium Technologies India Private Limited, with over 8 years of experience in building robust and scalable applications. 
+My expertise lies in leveraging modern technologies such as Node.js, Java, Angular 2+, TypeScript, ES6, and HTML5 to craft high-quality solutions. 
+Currently, I am focused on working with Ionic, enhancing my skills in building powerful cross-platform mobile applications.
 
-I have around 6 years of work experience developing applications using Nodejs and Java technologies.
-
-I have expertise in Angular 2+, Typescript, ES6, and HTML 5.
-
-🔭 I’m currently working on Ionic.
- 
 <!--
 **tusharkhairnar008/tusharkhairnar008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
